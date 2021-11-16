@@ -17,5 +17,14 @@ h1, h2{
 #title {
     float: left;
     font-size: 500%;
-
+    margin-top: 10px;
 }
+
+#menu li{
+    float: right;
+    font-size: 150%;
+    letter-spacing: 3px;
+    list-style-type: none;
+    margin: 80px 20px 0 0;
+}
+
