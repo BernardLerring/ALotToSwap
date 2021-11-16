@@ -13,12 +13,20 @@ h1, h2{
     letter-spacing: 3px;
     font-weight: 900;
     color: #96258a;
+    text-transform: uppercase;
+}
+
+img {
+    max-width: 10%;
+    max-height: 10%;
+    float:left;
+    margin-top: -10px;
 }
 
 #title {
     float: left;
     font-size: 450%;
-    margin: 10px 0 0 20px;
+    margin: 35px 0 0 20px;
 }
 
 #menu li{
@@ -46,4 +54,30 @@ h1, h2{
 .active {
     color: #96258a;
     border-bottom: 6px  #709275 solid;
+}
+
+#hero-outer {
+    height: 900px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero {
+    height: 900px;
+    width: 100%;
+    background-image: url('../images/pexels-zen-chung-5528938.jpg');
+    background-size: cover;
+
+animation-name: hero-zoom-out;
+animation-duration: 5s;
+animation-fill-mode: forwards;
+}
+
+@keyframes hero-zoom-out {
+    from{
+        transform: scale(1.4);
+    }
+    to{
+        transform: scale(1);    
+    }
 }
