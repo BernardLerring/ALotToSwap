@@ -5,4 +5,17 @@ body {
     font-weight: 300;
     margin: 0;
     padding: 0;
+    color: #96258a;
+}
+
+h1, h2{
+    font-family: Modern Antiqua;
+    letter-spacing: 3px;
+    font-weight: 1000;
+}
+
+#title {
+    float: left;
+    font-size: 500%;
+
 }
