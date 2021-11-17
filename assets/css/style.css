@@ -69,7 +69,7 @@ img {
     }
 
 #hero {
-    height: 700px;
+    height: 800px;
     width: 100%;
     background-image: url('../images/pexels-zen-chung-5528938.jpg');
     background-size: cover;
@@ -105,17 +105,32 @@ img {
 }
 
 #philosophy {
-    height: 700px;
+    height: 800px;
+}
+
+#philosophy h1 {
+    font-family: Modern Antiqua;
+    font-size: 300%;
+    text-align:center;
 }
 
 #left-list {
     padding-top: 30px;
     float:left;
     width: 50%;
+    margin-left: 30px;
 }
 
 #image {
     padding-top: 30px;
     float:right;
     width: 50%;
+}
+
+.left-list-title {
+    width: 100%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 10px;
 }
