@@ -9,7 +9,7 @@ body {
 }
 
 h1, h2{
-    font-family: Modern Antiqua, sans serif;
+    font-family: Open Sans Condensed, sans serif;
     letter-spacing: 3px;
     font-weight: 900;
     color: #96258a;
@@ -24,6 +24,7 @@ img {
 }
 
 #title {
+    font-family: Modern Antiqua;
     float: left;
     font-size: 450%;
     margin: 35px 0 0 20px;
@@ -60,7 +61,12 @@ img {
     height: 900px;
     width: 100%;
     overflow: hidden;
+    position: relative;
 }
+
+#text-overlay, #text-overlay h2 {
+    color: #ffffff;
+    }
 
 #hero {
     height: 900px;
@@ -83,11 +89,19 @@ img {
 }
 
 #text-overlay {
-    font-size: 120%;
-    color: #96258a;
+    font-size: 110%;
     font-family: Open Sans Condensed;
+    text-transform: uppercase;
     letter-spacing: 3px;
-    width: 300px;
+    width: 200px;
     height: 200px;
-
+    padding-top: 12px;
+    padding-left: 20px;
+    padding-bottom: 8px;
+    border-radius: 15%;
+    background-color: rgba(150, 37, 138, .6);
+    top: 150px;
+    left: 60px;
+    position: absolute;
 }
+
