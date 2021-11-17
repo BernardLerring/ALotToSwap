@@ -58,7 +58,7 @@ img {
 }
 
 #hero-outer {
-    height: 900px;
+    height: 700px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -69,7 +69,7 @@ img {
     }
 
 #hero {
-    height: 900px;
+    height: 700px;
     width: 100%;
     background-image: url('../images/pexels-zen-chung-5528938.jpg');
     background-size: cover;
@@ -89,19 +89,33 @@ img {
 }
 
 #text-overlay {
-    font-size: 110%;
+    font-size: 120%;
     font-family: Open Sans Condensed;
     text-transform: uppercase;
     letter-spacing: 3px;
-    width: 200px;
-    height: 200px;
-    padding-top: 12px;
-    padding-left: 20px;
-    padding-bottom: 8px;
-    border-radius: 15%;
+    text-align: center;
+    width: 220px;
+    height: 220px;
+    padding: 5px;
+    border-radius: 5%;
     background-color: rgba(150, 37, 138, .6);
     top: 150px;
     left: 60px;
     position: absolute;
 }
 
+#philosophy {
+    height: 700px;
+}
+
+#left-list {
+    padding-top: 30px;
+    float:left;
+    width: 50%;
+}
+
+#image {
+    padding-top: 30px;
+    float:right;
+    width: 50%;
+}
