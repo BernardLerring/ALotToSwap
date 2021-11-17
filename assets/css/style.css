@@ -119,12 +119,14 @@ img {
     float:left;
     width: 50%;
     margin-left: 30px;
+    border: #96258a solid 3px;
 }
 
 #image {
     padding-top: 30px;
     float:right;
     width: 50%;
+    border: #96258a solid 3px;
 }
 
 .left-list-title {
@@ -133,4 +135,12 @@ img {
     line-height: 20px;
     clear: both;
     margin-bottom: 10px;
+}
+
+#left-list-title, h2, p {
+    text-align: center;
+}
+
+#left-list-title, h2 {
+    color: #709275
 }
