@@ -139,4 +139,15 @@ img {
     color: #709275
 }
 
+#locations {
+    height: 800px;
+    background-color: #92B19C;
+    overflow: hidden;
+}
 
+#locations h1 {
+    font-family: Modern Antiqua;
+    font-size: 300%;
+    text-align:center;
+    padding-top: 30px;
+}
