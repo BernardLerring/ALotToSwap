@@ -143,6 +143,11 @@ img {
     height: 800px;
     background-color: #92B19C;
     overflow: hidden;
+    background-image: url('../images/pexels-photo-3873912.jpeg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 }
 
 #locations h1 {
