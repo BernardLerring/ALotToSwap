@@ -140,10 +140,9 @@ img {
 }
 
 #locations {
-    height: 800px;
-    background-color: #92B19C;
+    height: 400px;
     overflow: hidden;
-    background-image: url('../images/pexels-photo-3873912.jpeg');
+    background-image: url('../images/pexels-photo-3873912.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -153,13 +152,27 @@ img {
 #locations h1 {
     font-family: Modern Antiqua;
     font-size: 300%;
-    text-align:center;
+    text-align: center;
     padding-top: 30px;
+    color: #E7E7E0;
 }
 
 .meets h2{
     font-family: Open Sans Condensed;
     color: #CCBC87;
     letter-spacing: 3px;
-    text-align: left;
+    text-align: center;
+}
+
+#locations div {
+    color: #E7E7E0;
+    background-color: rgba(0, 0, 0, .6);
+    width: 25%;
+    height: 250px;
+    float: left;
+    text-align: center;
+    padding-top: 5px;
+    border-left: solid 3px #CCBC87;
+    border-top: solid 3px #CCBC87;
+    box-sizing: border-box;
 }
