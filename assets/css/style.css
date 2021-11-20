@@ -151,3 +151,10 @@ img {
     text-align:center;
     padding-top: 30px;
 }
+
+.meets h2{
+    font-family: Open Sans Condensed;
+    color: #CCBC87;
+    letter-spacing: 3px;
+    text-align: left;
+}
