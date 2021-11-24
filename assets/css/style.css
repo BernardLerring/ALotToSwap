@@ -26,7 +26,7 @@ img {
 #title {
     font-family: Modern Antiqua;
     float: left;
-    font-size: 450%;
+    font-size: 500%;
     margin: 35px 0 0 20px;
 }
 
@@ -112,7 +112,7 @@ img {
 
 #philosophy h1 {
     font-family: Modern Antiqua;
-    font-size: 300%;
+    font-size: 400%;
     text-align:center;
     padding-top: 30px;
 }
@@ -140,7 +140,7 @@ img {
 }
 
 #locations {
-    height: 400px;
+    height: 600px;
     overflow: hidden;
     background-image: url('../images/pexels-photo-3873912.jpg');
     background-size: cover;
@@ -151,10 +151,11 @@ img {
 
 #locations h1 {
     font-family: Modern Antiqua;
-    font-size: 300%;
+    font-size: 400%;
     text-align: center;
     padding-top: 30px;
     color: #E7E7E0;
+    padding-top: 10px;
 }
 
 .meets h2{
@@ -164,15 +165,17 @@ img {
     text-align: center;
 }
 
+.meets h3 {
+    font-size: 110%;
+}
+
 #locations div {
     color: #E7E7E0;
     background-color: rgba(0, 0, 0, .6);
     width: 25%;
-    height: 250px;
+    height: 230px;
     float: left;
     text-align: center;
     padding-top: 5px;
-    border-left: solid 3px #CCBC87;
-    border-top: solid 3px #CCBC87;
     box-sizing: border-box;
 }
