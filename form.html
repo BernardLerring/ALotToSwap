@@ -22,24 +22,37 @@
         </a>
         <nav id="menu">
             <ul>
-                <li><a href="form.html">Join Us</a></li>
-                <li><a href="gallery.html" class="active">Pictures</a></li>
+                <li><a href="form.html" class="active">Join Us</a></li>
+                <li><a href="gallery.html">Pictures</a></li>
                 <li><a href="index.html">Home</a></li>
             </ul>
         </nav>
     </header>
-
-    <section id="pictures">
-        <img src="assets/images/jam.jpeg" alt="jars of jam">
-        <img src="assets/images/apples.jpeg" alt="a bucket of apples">
-        <img src="assets/images/arti.jpeg" alt="globe artichokes">
-        <img src="assets/images/1person.jpeg" alt="a man digging">
-        <img src="assets/images/flowers.jpeg" alt="various different flowers">
-        <img src="assets/images/veg2.jpeg" alt="vegetables laid out on a market stall">
-        <img src="assets/images/2people1.jpeg" alt="2 people on an allotment">
-        <img src="assets/images/veg1.jpeg" alt="different vegetables laid out on a table">
+<section id="form-background">
+    <form class="signup-form" method="post" action="https://alottoswap.com>
+        <h2>Let's get you signed up!</h2>
+        <label for="fname">First Name</label>
+        <input class="text-input" id="fname" type="text" name="first_name" required>
+        <label for="lname">Last Name</label>
+        <input class="text-input" id="lname" type="text" name="last_name" required>
+        <label for="location">Location</label>
+        <input class="text-input" id="location" type="text" name="location" required>
+        <label for="email">Email Address</label>
+        <input class="text-input" id="email" type="email" name="email_address" required>
+        <label for="vegetables">Vegetables</label>
+        <input id="vegetables" type="radio" name="item_to_swap" value="vegetables" required>
+        <label for="fruit">Fruit</label>
+        <input id="fruit" type="radio" name="item_to_swap" value="fruit">
+        <label for="flowers">Flowers</label>
+        <input id="flowers" type="radio" name="item_to_swap" value="flowers">
+        <label for="preseves">Preserves</label>
+        <input id="preserves" type="radio" name="item_to_swap" value="preserves">
+        <label for="all">All</label>
+        <input id="all" type="radio" name="item_to_swap" value="all">
+        <input class= "join-button" id="submit" type="submit" value="Let's Get Swapping!!">
+    </form>
     </section>
-    
+
     <footer>
         <ul class="socials">
             <li>
