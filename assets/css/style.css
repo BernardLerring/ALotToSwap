@@ -179,3 +179,25 @@ img {
     padding-top: 5px;
     box-sizing: border-box;
 }
+
+footer {
+    height: 75px;
+    background-color: #96258a;
+    overflow: hidden;
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials > li {
+    display: inline;
+    font-size: 250%;
+    margin: 1%;
+    padding: 8%;
+    color: #E7E7E0;
+}
+
+.socials > li a:hover {
+    color: #CCBC87;
+}
