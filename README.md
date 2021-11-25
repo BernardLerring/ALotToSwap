@@ -32,7 +32,7 @@ Design
 
 Colour scheme:
 
-The main colours used are             . The colours have been deliberately chosen to enhance the organic feel of the website.
+The main colours used are mustard, dark jade, purple and off white. The colours have been deliberately chosen to enhance the organic feel and ethos of the website.
 
 Fonts/Typography:
 
@@ -69,6 +69,8 @@ c) Git
 d) GitHub
 
 e) GitPod
+
+f) hover.css. Hover.css was used to change colour when hovering over the icons and nav titles.
 
 Testing
 
