@@ -286,6 +286,11 @@ footer {
         height: 1050px;
         padding: 20px;
     }
+
+    #pictures {
+        column-count: 4;
+        height: 1050px;
+    }
 }
 
 @media screen and (max-width: 1050px) {
@@ -314,6 +319,11 @@ footer {
     #hero {
         background-position: center center;
     }
+
+    #pictures {
+        column-count: 3;
+        height: 1050px;
+    }
 }
 
 @media screen and (max-width: 750px) {
@@ -326,7 +336,19 @@ footer {
         padding: 15px;
         margin: 0 auto;
     }
+
+    #pictures {
+        column-count: 3;
+        height: 1050px;
+    }
 }
+
+@media screen and (max-width: 450px) {
+    #pictures {
+        column-count: 2;
+        height: 1050px;
+    }
+} 
 
 
 
