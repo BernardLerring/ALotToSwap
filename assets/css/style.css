@@ -108,7 +108,7 @@ h1, h2{
 #philosophy h1 {
     font-family: Modern Antiqua;
     font-size: 400%;
-    text-align:center;
+    text-align: center;
     padding-top: 30px;
 }
 
@@ -311,7 +311,23 @@ footer {
         height: 1050px;
         margin: 0 auto;
     }
+    #hero {
+        background-position: center center;
+    }
 }
+
+@media screen and (max-width: 750px) {
+    footer {
+        clear: both;
+        padding: 0;
+    }
+
+    .socials > li {
+        padding: 15px;
+        margin: 0 auto;
+    }
+}
+
 
 
 
