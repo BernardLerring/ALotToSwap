@@ -267,7 +267,6 @@ footer {
 
 @media screen and (max-width: 1250px) {
     #locations {
-        width: 65%;
         height: 1250px;
         margin: 0 auto;
     }
@@ -282,4 +281,25 @@ footer {
         padding: 0;
         float: left;
     }
+
+    #philosophy {
+        height: 1050px;
+        padding: 20px;
+    }
 }
+
+@media screen and (max-width: 1050px) {
+    body {
+        text-align: center;
+        height: 1250px;
+        margin: 0 auto;
+    }
+
+    #philosophy {
+        height: 1050px;
+        margin: 0 auto;
+    }
+}
+
+
+
