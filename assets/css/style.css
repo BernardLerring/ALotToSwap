@@ -367,4 +367,8 @@ footer {
         margin: 0 auto;
         font-size: 150%;
     }
+
+    #philosophy h1 {
+        font-size: 300%;
+    }
 } 
