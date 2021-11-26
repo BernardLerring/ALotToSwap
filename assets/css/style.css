@@ -324,6 +324,10 @@ footer {
         column-count: 3;
         height: 1050px;
     }
+
+    .signup-form {
+        margin: 0 auto;
+    }
 }
 
 @media screen and (max-width: 750px) {
@@ -344,7 +348,6 @@ footer {
 
     .signup-form {
         margin: 0 auto;
-
     }
 }
 
@@ -358,6 +361,11 @@ footer {
         font-size: 50%;
         margin: 0 auto;
         margin-top: 20px;
+    }
+
+    .socials > li {
+        margin: 0 auto;
+        font-size: 150%;
     }
 } 
 
