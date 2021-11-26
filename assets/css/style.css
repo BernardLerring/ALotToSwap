@@ -341,12 +341,23 @@ footer {
         column-count: 3;
         height: 1050px;
     }
+
+    .signup-form {
+        margin: 0 auto;
+
+    }
 }
 
 @media screen and (max-width: 450px) {
     #pictures {
         column-count: 2;
         height: 1050px;
+    }
+
+    .join-button {
+        font-size: 50%;
+        margin: 0 auto;
+        margin-top: 20px;
     }
 } 
 
