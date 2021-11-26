@@ -16,13 +16,6 @@ h1, h2{
     text-transform: uppercase;
 }
 
-img {
-    max-width: 10%;
-    max-height: 10%;
-    float:left;
-    margin-top: -10px;
-}
-
 #title {
     font-family: Modern Antiqua;
     float: left;
@@ -190,21 +183,29 @@ footer {
     text-align: center;
 }
 
+.icons {
+    color: #E7E7E0;
+}
+
 .socials > li {
     display: inline;
     font-size: 250%;
     margin: 1%;
     padding: 8%;
-    color: #E7E7E0;
+    color:#E7E7E0;
 }
 
 .socials > li a:hover {
-    color: #CCBC87;
+    color: #709275;
 }
 
 #pictures {
     height: 800px;
     clear: both;
+    column-count: 5;
+    column-gap: 0;
+    line-height: 0;
+    overflow: hidden;
 }
 
 #pictures > img {
