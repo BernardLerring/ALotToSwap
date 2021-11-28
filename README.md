@@ -155,9 +155,9 @@ The imagery is vital to showing all users what the website and community is abou
 
 - Font Awesome. All icons used through the site are imported from the directory at [FontAwesome](https://fontawesome.com/)
 
-- GitHub was used to host the repositories where the and for site deployment.
+- [GitHub](https://github.com/) was used to host the repositories and for site deployment.
 
-- GitPod was used for all writing of code.
+- [GitPod](https://gitpod.io/) was used for all writing of code.
 
 - hover.css. Hover.css was used to change colour when hovering over the icons and nav titles.
 
