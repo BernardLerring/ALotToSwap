@@ -34,7 +34,7 @@ This is the main website for the produce and homegrown fruit and veg swap meet c
 
 ### Colour scheme:
 
-The main colours used are mustard, dark jade, purple and off white. The colours have been deliberately chosen to enhance the organic feel and ethos of the website.
+The main colours used are mustard, dark jade, purple and off white. The colours have been deliberately chosen to enhance the organic feel and ethos of the website, whilst also allowing the user to easily differentiate between the writing and the backgrounds.
 
 ### Fonts/Typography:
 
