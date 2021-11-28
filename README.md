@@ -1,6 +1,6 @@
 # ALotToSwap
 
-** ## A Lot To Swap Website
+## A Lot To Swap Website
 
 This is the main website for the produce and homegrown fruit and veg swap meet community called A Lot To Swap. It will be navigatable on a variety of devices making it simple for potential partners to join the community.
 
