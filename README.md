@@ -67,7 +67,7 @@ The imagery is vital to showing all users what the website and community is abou
 
 ### Header/Navigation
 
-- Logo is in the top left of the screen. Pressing on it will link you back to the top of the homepage.
+- Logo/site title is in the top left of the screen. Pressing on it will link you back to the top of the homepage.
 
 - To the right of the bar is the remaining navigation links. Home, Pictures and Join Us. These all link to seperate site pages. The page you are currently on will always be underscored. The page you hover over will change colour to indicate the potential for it to be pushed. I intentionally chose "Join Us" as it is a community based website and that sounds like a call to be part of it.
 
