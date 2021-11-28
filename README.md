@@ -203,13 +203,13 @@ The imagery is vital to showing all users what the website and community is abou
 
 The site was deployed to GitHub pages by following these steps:
 
-a) In the GitHub repository, find the Settings tab.
+1. In the GitHub repository, find the Settings tab.
 
-b) From the Source section drop down menu select "Main".
+2. From the Source section drop down menu select "Main".
 
-c) Press "Refresh"
+3. Press "Refresh"
 
-d) GitHub then creates the live link for the site.
+4. GitHub then creates the live link for the site.
 
 It can also be found at [ALotToSwap](https://bernardlerring.github.io/ALotToSwap/)
 
