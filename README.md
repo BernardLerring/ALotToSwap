@@ -6,11 +6,11 @@ This is the main website for the produce and homegrown fruit and veg swap meet c
 
 <img width="990" alt="Resposiveness" src="https://user-images.githubusercontent.com/92179145/143723003-a5fe51da-f273-42f5-a812-af81448d5714.png">
 
-User Experience
+## User Experience
 
-User Stories
+### User Stories
 
-First time user goals
+### First time user goals
 
 a) First time users should be able to easily navigate the site and view the content on any device.
 
@@ -18,33 +18,33 @@ b) First time users should be able to learn about the community and what it stan
 
 c) First time users should be able to find the social media links so as to determine how many people follow them and how popular the community is. They should also be able to see photos of the swap meets to see the types of products being swapped. They should also be able to join simply and quickly.
 
-Returning user goals:
+### Returning user goals:
 
 a) As a returning visitor I want to be able to find information about the next swap meets.
 
 b) I would want to be able to find contact info for the people in charge of the allotments where the swaps may take place should I have chosen to join. 
 
-Frequent user goals:
+### Frequent user goals:
 
 a) I want to see an updated photo gallery with the most recent photos of swap meets.
 
 b) I want to see a constantly updated list of new swap meets and the venues.
 
-Design
+## Design
 
-Colour scheme:
+### Colour scheme:
 
 The main colours used are mustard, dark jade, purple and off white. The colours have been deliberately chosen to enhance the organic feel and ethos of the website.
 
-Fonts/Typography:
+### Fonts/Typography:
 
 The 2 main fonts used are Modern Antiqua and Open Sans Condensed. The fall back font is Sans Serif should they not load. The fonts I have chosen compliment each other well and fit well with the concept and feel of the website.
 
-Images:
+### Images:
 
 The imagery is vital to showing all users what the website and community is about. The large hero image and the accompanying animation is designed to draw the user into the website and its purpose.
 
-Wireframes
+## Wireframes/Sketches
 
 <img width="990" alt="HomeSketch" src="https://user-images.githubusercontent.com/92179145/143722936-c81f09b0-6096-4db8-b86c-533682c1eeb5.png">
 
@@ -59,13 +59,13 @@ Wireframes
 <img width="990" alt="FooterSketch" src="https://user-images.githubusercontent.com/92179145/143722990-1f367342-5c47-4ec4-b04b-0d972cff1895.png">
 
 
-Features
+## Features
 
 a) Responsive on a variety of devices.
 
 b) Interactive elements to add to the user experience.
 
-Header/Navigation
+### Header/Navigation
 
 a) Logo is in the top left of the screen. Pressing on it will link you back to the top of the homepage.
 
@@ -77,7 +77,7 @@ d) The navigation makes it clear to the user what can be accessed on the site.
 
 <img width="990" alt="Header" src="https://user-images.githubusercontent.com/92179145/143723157-b0dbf96a-7fb7-4454-9422-60ca79163d33.png">
 
-Hero image
+### Hero image
 
 a) The image chosen is of 2 people exchanging a vegetable, to highlight the ethos of the community. 
 
@@ -87,7 +87,7 @@ c) The animation used is designed to draw the user into the site.
 
 <img width="990" alt="Hero" src="https://user-images.githubusercontent.com/92179145/143723224-abfcb65a-d3cf-4e72-bc9c-0623d34fa67a.png">
 
-Philosophy/Ethos
+### Philosophy/Ethos
 
 a) This section gives more detail about what the site is about and what the community is used for.
 
@@ -99,7 +99,7 @@ d) FontAwesome icons are used to give the user a clear and visual idea about eac
 
 <img width="990" alt="Philosophy" src="https://user-images.githubusercontent.com/92179145/143723342-961afffd-6579-4a96-92ce-d50470a4e12d.png">
 
-Locations
+### Locations
 
 a) This section gives details about upcoming SwapMeets and their locations. 
 
@@ -111,7 +111,7 @@ d) The image underneath is of a selection of vegetables to link the user back to
 
 <img width="990" alt="Locations" src="https://user-images.githubusercontent.com/92179145/143723402-3eac4e39-3319-498f-a132-498897380773.png">
 
-Footer
+### Footer
 
 a) This links the user to the 4 main social media accounts for the community.
 
@@ -121,7 +121,7 @@ c) A different background colour is used again, with the FontAwesome icons chang
 
 <img width="990" alt="Footer" src="https://user-images.githubusercontent.com/92179145/143723438-de19709e-6cd0-4aae-b450-daab2d6ac15c.png">
 
-Pictures
+### Pictures
 
 a) A masonry style photo library adds to the organic feel of the site.
 
@@ -131,7 +131,7 @@ c) The header/navigation and footer are the same as the other site pages giving 
 
 <img width="990" alt="Pictures" src="https://user-images.githubusercontent.com/92179145/143723482-4a928965-8607-4220-b3e4-3c50e5b72dca.png">
 
-Join Us
+### Join Us
 
 a) The form indicates the 4 required fields for first and last names, location, email and preferred item to swap.
 
@@ -141,15 +141,15 @@ c) The "Let's Get Swapping" button changes colour when hovered over, again indic
 
 <img width="990" alt="Form" src="https://user-images.githubusercontent.com/92179145/143723555-5c9c9871-517a-49a7-b88b-d97f071996ba.png">
 
-Technology used
+## Technology used
 
-Languages used
+### Languages used
 
 a) HTML 5 
 
 b) CSS
 
-Frameworks, libraries and programs used:
+### Frameworks, libraries and programs used:
 
 a) Google Fonts. Both main fonts used throughout the site are from the Google Fonts repository.
 
@@ -163,7 +163,7 @@ e) hover.css. Hover.css was used to change colour when hovering over the icons a
 
 f) PhotoShop was used to alter the image used in the Locations section.
 
-Testing
+## Testing
 
 a) I confirmed that the site is responsive on a variety of device sizes through DevTools.
 
@@ -173,7 +173,7 @@ c) I have confirmed that the form cannot be submitted without a valid email and 
 
 d) I confirm that the site works in both Safari and Chrome.
 
-Validation
+## Validation
 
 a) I confirm that no errors were found when passing it through the W3C html validator.
 
@@ -183,7 +183,7 @@ c) I confirm that the site is easy to read and navigate by passing it through th
 
 <img width="990" alt="Accessibility" src="https://user-images.githubusercontent.com/92179145/143723766-3fcd3b10-5716-42b8-85c2-267968783df7.png">
 
-Fixed Bugs 
+## Fixed Bugs 
 
 a) After running the W3C html validator, I converted the Philosophy and Locations headings to h2 from h1 to avoid clashes in the code. 
 
@@ -191,7 +191,7 @@ b) I removed an ALotToSwap logo from the header bar as it was causing issues wit
 
 c) All media queries resolved size and flow issues on smaller devices.
 
-Unfixed Bugs
+## Unfixed Bugs
 
 a) The nav menu is displayed in the wrong order when the site is displayed on smaller screen sizes.
 
@@ -199,7 +199,7 @@ b) The social media icons in the footer are not perfectly centred on smaller scr
 
 c) One picture disappears from the pictures gallery at 470px and below.
 
-Deployment
+## Deployment
 
 The site was deployed to GitHub pages by following these steps:
 
@@ -213,21 +213,21 @@ d) GitHub then creates the live link for the site.
 
 It can also be found at https://bernardlerring.github.io/ALotToSwap/
 
-Credits
+## Credits
 
-Content
+### Content
 
 a) All images on the site are taken from https://www.pexels.com/
 
 b) All icons on the site are taken from https://fontawesome.com/
 
-Media
+### Media
 
 c) The code used for the Join Us form and the Social Media links was taken from the CI Love Running walkthrough project and modified to suit the style of the ALotToSwap site.
 
 d) The idea for the masonry style photo layout on the Pictures page and the hero image animation were inspired by the CI Love Running walkthrough project.
 
-Thanks
+### Thanks
 
 a) My Partner for being my UX companion for the site and for helping test it for me
 
