@@ -169,7 +169,7 @@ a) I confirmed that the site is responsive on a variety of device sizes through 
 
 b) I confirm that the colours and fonts all contrast and allow the user to easily navigate the site.
 
-c) I have confirmed that the form cannot be submitted without a valid email and without all fields being filled in, but the join button does not link to anywhere due to the site address not being made.
+c) I have confirmed that the form cannot be submitted without a valid email and without all fields being filled in, but the join button does not link to anywhere due to the site address not being live.
 
 d) I confirm that the site works in both Safari and Chrome.
 
@@ -212,6 +212,26 @@ c) Press "Refresh"
 d) GitHub then creates the live link for the site.
 
 It can also be found at https://bernardlerring.github.io/ALotToSwap/
+
+Credits
+
+Content
+
+a) All images on the site are taken from https://www.pexels.com/
+
+b) All icons on the site are taken from https://fontawesome.com/
+
+Media
+
+c) The code used for the Join Us form and the Social Media links was taken from the CI Love Running walkthrough project and modified to suit the style of the ALotToSwap site.
+
+d) The idea for the masonry style photo layout on the Pictures page and the hero image animation were inspired by the CI Love Running walkthrough project.
+
+Thanks
+
+a) My Partner for being my UX companion for the site and for helping test it for me
+
+b) My mentor for his feedback and encouragement throughout the project.
 
 
 
