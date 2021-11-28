@@ -151,9 +151,9 @@ The imagery is vital to showing all users what the website and community is abou
 
 ### Frameworks, libraries and programs used:
 
-- Google Fonts. Both main fonts used throughout the site are from the Google Fonts repository.
+- Google Fonts. Both main fonts used throughout the site are from the [Google Fonts](https://fonts.google.com/) repository
 
-- Font Awesome. All icons used through the site are imported from the directory at Font Awesome.
+- Font Awesome. All icons used through the site are imported from the directory at [FontAwesome](https://fontawesome.com/)
 
 - GitHub was used to host the repositories where the and for site deployment.
 
@@ -162,6 +162,8 @@ The imagery is vital to showing all users what the website and community is abou
 - hover.css. Hover.css was used to change colour when hovering over the icons and nav titles.
 
 - PhotoShop was used to alter the image used in the Locations section.
+
+- [Pexels](https://www.pexels.com/) was used for all of the imagery on the site.
 
 ## Testing
 
