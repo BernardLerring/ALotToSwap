@@ -223,6 +223,8 @@ It can also be found at [ALotToSwap](https://bernardlerring.github.io/ALotToSwap
 
 - All icons on the site are taken from [FontAwesome](https://fontawesome.com/)
 
+- Both fonts used on the site are from [Google Fonts](https://fonts.google.com/)
+
 ### Media
 
 - The code used for the Join Us form and the Social Media links was taken from the CI Love Running walkthrough project and modified to suit the style of the ALotToSwap site.
