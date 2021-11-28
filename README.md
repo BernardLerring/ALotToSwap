@@ -217,7 +217,7 @@ It can also be found at https://bernardlerring.github.io/ALotToSwap/
 
 ### Content
 
-a) All images on the site are taken from [Pexels] (https://www.pexels.com/)
+a) All images on the site are taken from [Pexels](https://www.pexels.com/)
 
 b) All icons on the site are taken from https://fontawesome.com/
 
