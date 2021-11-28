@@ -12,11 +12,11 @@ This is the main website for the produce and homegrown fruit and veg swap meet c
 
 ### First time user goals
 
-a) First time users should be able to easily navigate the site and view the content on any device.
+-First time users should be able to easily navigate the site and view the content on any device.
 
-b) First time users should be able to learn about the community and what it stands for.
+-First time users should be able to learn about the community and what it stands for.
 
-c) First time users should be able to find the social media links so as to determine how many people follow them and how popular the community is. They should also be able to see photos of the swap meets to see the types of products being swapped. They should also be able to join simply and quickly.
+-First time users should be able to find the social media links so as to determine how many people follow them and how popular the community is. They should also be able to see photos of the swap meets to see the types of products being swapped. They should also be able to join simply and quickly.
 
 ### Returning user goals:
 
