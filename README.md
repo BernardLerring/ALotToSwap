@@ -151,9 +151,9 @@ The imagery is vital to showing all users what the website and community is abou
 
 ### Frameworks, libraries and programs used:
 
-- Google Fonts. Both main fonts used throughout the site are from the [Google Fonts](https://fonts.google.com/) repository
+- Google Fonts. Both main fonts used throughout the site are from the [Google Fonts](https://fonts.google.com/) repository.
 
-- Font Awesome. All icons used through the site are imported from the directory at [FontAwesome](https://fontawesome.com/)
+- Font Awesome. All icons used through the site are imported from the directory at [FontAwesome](https://fontawesome.com/).
 
 - [GitHub](https://github.com/) was used to host the repositories and for site deployment.
 
@@ -209,21 +209,21 @@ The site was deployed to GitHub pages by following these steps:
 
 2. From the Source section drop down menu select "Main".
 
-3. Press "Refresh"
+3. Press "Refresh".
 
 4. GitHub then creates the live link for the site.
 
-It can also be found at [ALotToSwap](https://bernardlerring.github.io/ALotToSwap/)
+It can also be found at [ALotToSwap](https://bernardlerring.github.io/ALotToSwap/).
 
 ## Credits
 
 ### Content
 
-- All images on the site are taken from [Pexels](https://www.pexels.com/)
+- All images on the site are taken from [Pexels](https://www.pexels.com/).
 
-- All icons on the site are taken from [FontAwesome](https://fontawesome.com/)
+- All icons on the site are taken from [FontAwesome](https://fontawesome.com/).
 
-- Both fonts used on the site are from [Google Fonts](https://fonts.google.com/)
+- Both fonts used on the site are from [Google Fonts](https://fonts.google.com/).
 
 ### Media
 
@@ -233,7 +233,7 @@ It can also be found at [ALotToSwap](https://bernardlerring.github.io/ALotToSwap
 
 ### Thanks
 
-- My Partner for being my UX companion for the site and for helping test it for me
+- My Partner for being my UX companion for the site and for helping test it for me.
 
 - My mentor for his feedback and encouragement throughout the project.
 
