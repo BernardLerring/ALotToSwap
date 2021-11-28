@@ -231,7 +231,15 @@ It can also be found at [ALotToSwap](https://bernardlerring.github.io/ALotToSwap
 
 - The idea for the masonry style photo layout on the Pictures page and the hero image animation were inspired by the CI Love Running walkthrough project.
 
+### Personal Development
+
+- I am aware that h1 headings should not be used beyond the very first heading as brought up as a warning in my W3C validation of my index.html file. If I was to change them to h2 headings at this late stage, I would have to change all h2 headings to h3 and so on, along with all their associated CSS stylings.  
+
+- It would appear that through reaching out on the Slack channel, that there was an issue with GitHub that caused a grafted git history to appear on my repository around the time I was editing some of my code and my ReadMe.MD. 
+
 ### Thanks
+
+- Dave H from the Slack Community for helping me sort out my issues with GitHub.
 
 - My Partner for being my UX companion for the site and for helping test it for me.
 
