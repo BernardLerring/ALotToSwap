@@ -17,6 +17,8 @@ h1, h2{
     text-transform: uppercase;
 }
 
+/* Header/Navigation Styling*/
+
 #title {
     font-family: Modern Antiqua;
     float: left;
@@ -51,16 +53,7 @@ h1, h2{
     border-bottom: 6px  #709275 solid;
 }
 
-#hero-outer {
-    height: 800px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
-
-#text-overlay, #text-overlay h2 {
-    color: #E7E7E0;
-    }
+/* Main Hero Image Styling*/
 
 #hero {
     height: 800px;
@@ -73,14 +66,14 @@ h1, h2{
     animation-fill-mode: forwards;
 }
 
-@keyframes hero-zoom-out {
-    from{
-        transform: scale(1.5);
-    }
-    to{
-        transform: scale(1);    
-    }
+#hero-outer {
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
 }
+
+/* Text Overlay Styling*/
 
 #text-overlay {
     font-size: 120%;
@@ -98,6 +91,23 @@ h1, h2{
     left: 60px;
     position: absolute;
 }
+
+#text-overlay, #text-overlay h2 {
+    color: #E7E7E0;
+    }
+
+/* Animation idea inspired by CI Love Running project*/
+
+@keyframes hero-zoom-out {
+    from{
+        transform: scale(1.5);
+    }
+    to{
+        transform: scale(1);    
+    }
+}
+
+/* Philosophy/Ethos Styling*/
 
 #philosophy {
     height: 800px;
@@ -133,6 +143,8 @@ h1, h2{
 #left-list-title, h2 {
     color: #709275
 }
+
+/* Locations Styling*/
 
 #locations {
     height: 600px;
@@ -176,6 +188,8 @@ h1, h2{
     box-sizing: border-box;
 }
 
+/* Footer Styling code borrowed from CI Love Running project and modified*/
+
 footer {
     height: 75px;
     background-color: #96258a;
@@ -202,6 +216,8 @@ footer {
     color: #709275;
 }
 
+/* Picture Styling idea inspired by CI Love Running project*/
+
 #pictures {
     height: 800px;
     clear: both;
@@ -214,6 +230,8 @@ footer {
 #pictures > img {
     width: 100%;
 }
+
+/* Join Us Form Styling code borrowed from CI Love Running project and modified*/
 
 .signup-form {
     margin: 200px;
@@ -264,6 +282,8 @@ footer {
     height: 600px;
     background-color: #709275;
 }
+
+/* Media Queries and Responsiveness*/
 
 @media screen and (max-width: 1250px) {
     #locations {
