@@ -211,7 +211,7 @@ c) Press "Refresh"
 
 d) GitHub then creates the live link for the site.
 
-It can also be found at https://bernardlerring.github.io/ALotToSwap/
+It can also be found at [ALotToSwap](https://bernardlerring.github.io/ALotToSwap/)
 
 ## Credits
 
@@ -219,7 +219,7 @@ It can also be found at https://bernardlerring.github.io/ALotToSwap/
 
 a) All images on the site are taken from [Pexels](https://www.pexels.com/)
 
-b) All icons on the site are taken from https://fontawesome.com/
+b) All icons on the site are taken from [FontAwesome](https://fontawesome.com/)
 
 ### Media
 
