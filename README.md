@@ -237,6 +237,8 @@ It can also be found at [ALotToSwap](https://bernardlerring.github.io/ALotToSwap
 
 - It would appear that through reaching out on the Slack channel, that there was an issue with GitHub that caused a grafted git history to appear on my repository around the time I was editing some of my code and my ReadMe.MD. 
 
+- In future, I will also use Balsamiq for my wireframes as I am aware that pencil drawings do not look as proffessional or as detailed as could be.
+
 ### Thanks
 
 - Dave H from the Slack Community for helping me sort out my issues with GitHub.
